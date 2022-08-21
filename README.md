@@ -5,7 +5,7 @@ In this repository you will find all the classes programmed in JAVA and an user'
 
 All ATM functions from opening an account to money transfers.
 
-/------------------------------------------------------------/
+------------------------------------------------------------
 
 
 Proyecto hecho con la intencion de mostrar el dominio en el uso de archivos y las GUI nativas de JAVA.
